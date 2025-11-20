@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace WpfDemoTemplate
+namespace WPF_Episode03_StackPanel
 {
     public partial class MainWindow : Window
     {
